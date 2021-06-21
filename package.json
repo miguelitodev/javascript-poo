@@ -6,7 +6,9 @@
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"aula1": "node ./aula1/index.js",
 		"aula2": "node ./aula2/index.js",
-		"aula3": "node ./aula3/index.js"
+		"aula3": "node ./aula3/index.js",
+		"aula4": "node ./aula4/index.js",
+		"aula5": "node ./aula5/index.js"
 	},
 	"keywords": [],
 	"author": "",
