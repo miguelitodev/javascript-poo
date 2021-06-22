@@ -1,13 +1,13 @@
 ## Aulas
 
-### <a href="./aula1/index.js" target="_blank">Repetição de código</a>
+### <a href="./aulas/aula1/index.js" target="_blank">Repetição de código</a>
 
 - Criando classes
 - O que são atributos
 - Instâcia/Objeto
 - Operador new
 
-### <a href="./aula2/index.js" target="_blank">Adicionando comportamentos</a>
+### <a href="./aulas/aula2/index.js" target="_blank">Adicionando comportamentos</a>
 
 - <a href="https://github.com/tc39/proposal-class-fields" target="_blank">Class field declarations for JavaScript</a>
 - Criação de métodos
@@ -16,7 +16,7 @@
 - Proposta de atributos privados
 - return e early return
 
-### <a href="./aula3/index.js" target="_blank">Modularizando código</a>
+### <a href="./aulas/aula3/index.js" target="_blank">Modularizando código</a>
 
 - Package.json
 - Modules
@@ -25,7 +25,7 @@
 - Tipos de valor e tipos de referência
 - Alterando dinamicamente um objeto
 
-### <a href="./aula4/index.js" target="_blank">Acessando atributos privados</a>
+### <a href="./aulas/aula4/index.js" target="_blank">Acessando atributos privados</a>
 
 - O que aprendemos nessa aula:
 - Diferenças entre null e undefined
@@ -34,7 +34,7 @@
 - Melhor encapsulamento da classe
 - Protegendo atributos sensíveis
 
-### <a href="./aula5/index.js" target="_blank">Construtores e estáticos</a>
+### <a href="./aulas/aula5/index.js" target="_blank">Construtores e estáticos</a>
 
 - Construtores
 - encapsulamento
